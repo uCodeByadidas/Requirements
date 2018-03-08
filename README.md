@@ -7,6 +7,9 @@
 - [IoT](https://github.com/uCodeByadidas/Requirements#iot)
   * [Must have](https://github.com/uCodeByadidas/Requirements#must-have-1)
   * [Nice to have](https://github.com/uCodeByadidas/Requirements#nice-to-have-1)
+- [Fan Experience](https://github.com/uCodeByadidas/Requirements#Fan-Experience)
+  * [Must have](https://github.com/uCodeByadidas/Requirements#must-have-2)
+  * [Nice to have](https://github.com/uCodeByadidas/Requirements#nice-to-have-2)
 
 ## Machine learning
 
@@ -52,3 +55,13 @@ $ pip3 install -r requirements.txt
 
 - You're free to bring your own hardware :)
 - You may want to add some backend to your projects. In this case [Docker](https://www.docker.com/) will be much appreciated
+
+## Fan Experience
+
+### Must have
+
+- Creativity :bulb:
+
+### Nice to have
+
+- As already mentioned, [Docker](https://docs.docker.com/install/) or [Docker-Toolbox](https://docs.docker.com/toolbox/) (for legacy systems) installed should be a must for a good deployment. More on that at the workshop
