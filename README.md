@@ -27,16 +27,26 @@ $ pip3 install -r requirements.txt
 
 ### Nice to have
 
-- [gcloud](https://cloud.google.com/sdk/downloads?hl=en)
+- [gcloud](https://cloud.google.com/sdk/downloads?hl=en) *Required for cloud training*
+- [gsutil](https://cloud.google.com/storage/docs/gsutil_install) *Required for cloud training*
 - [floydhub-cli](https://github.com/floydhub/floyd-cli)
 - [Keras](https://keras.io/#installation)
 - [cuda 8](https://developer.nvidia.com/cuda-80-ga2-download-archive) *Only if your computer can manage it*
 - [cudnn](https://developer.nvidia.com/cudnn) *Only if you managed to install cuda on your system*
 
+#### Workflow ready in google cloud (*Required for cloud training*)
+
+Set up your GCP project.
+
+1. Select or create a Cloud Platform project. [GO TO THE MANAGE RESOURCES PAGE](https://console.cloud.google.com/cloud-resource-manager)
+
+2. Enable the Cloud Machine Learning Engine and Compute Engine APIs. [ENABLE THE APIS](https://console.cloud.google.com/flows/enableapi?apiid=ml.googleapis.com,compute_component)
+
+
 ### Workshop
 
-- [ ] Being smarter than AI
-- [ ] Train your models in the cloud
+- [ ] Being smarter than AI (Friday after lunch)
+- [ ] Train your models in the cloud (Friday after lunch)
 
 ## IoT
 
