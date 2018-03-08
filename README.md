@@ -10,7 +10,7 @@
 - [Fan Experience](https://github.com/uCodeByadidas/Requirements#Fan-Experience)
   * [Must have](https://github.com/uCodeByadidas/Requirements#must-have-2)
   * [Nice to have](https://github.com/uCodeByadidas/Requirements#nice-to-have-2)
-
+  * [Workshop](https://github.com/uCodeByadidas/Requirements#workshop-1)
 ## Machine learning
 
 You have all the pip requirements in the requirements.txt file.
@@ -75,3 +75,6 @@ Set up your GCP project.
 ### Nice to have
 
 - As already mentioned, [Docker](https://docs.docker.com/install/) or [Docker-Toolbox](https://docs.docker.com/toolbox/) (for legacy systems) installed should be a must for a good deployment. More on that at the workshop
+
+### Workshop
+- Applications deployment & APIs management
